@@ -1,4 +1,5 @@
 The wandb report link is: 
+
 **Part 1**
 1. Question 1
     1. Here we have created a class CNN, which will return a model based on different parameters,which are passed. 
@@ -23,3 +24,4 @@ The wandb report link is:
  1. Question 3
     1. In this question we have setup the sweep using different pretrained model as hyperparameter.
     2. We have added all the losses and accuracies plot in the report.
+    3. Link for the .ipynb file:
