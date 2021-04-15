@@ -21,7 +21,7 @@ The wandb report link is:
     2. Since everytime we are picking image randomly and 10 neurons also randomly, so the images we have plotted can aslo vary.
     3. Just by running all the cells you can see the output
     4. We have added the images in 2\*5 grid to the report.
-    5. Link for the .pynb file: https://colab.research.google.com/drive/1Y68DiZ98fM23-j1jkBVuPWV4EMWYHnw6?usp=sharing
+    5. Link for the .ipynb file: https://colab.research.google.com/drive/1Y68DiZ98fM23-j1jkBVuPWV4EMWYHnw6?usp=sharing
 
 **Part B**
  1. Question 3
