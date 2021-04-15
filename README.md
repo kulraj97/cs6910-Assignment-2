@@ -25,7 +25,7 @@ The wandb report link is:
 
 **Part B**
  1. Question 3
-    1. In this question we have setup the sweep using different pretrained model as hyperparameter.
+    1. In this question we have setup the sweep using different parameters like epochs, pretrained models and number of layers to freeze.
     2. We have added all the losses and accuracies plot in the report.
     3. Link for the .ipynb file: https://colab.research.google.com/drive/1gVz4xjC4Nn7_6Mi6bC5KgT1xWuPJaTcW?usp=sharing
 
