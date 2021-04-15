@@ -3,7 +3,7 @@ The wandb report link is:
 **Part 1**
 1. Question 1
     1. Here we have created a class CNN, which will return a model based on different parameters,which are passed. 
-    2. We have made a model and trained it on some random parameters, to check wheteher everything is in working or not
+    2. We have made a model and trained it on some random parameters, to check wheteher everything is working or not
     3. Link for the .ipynb file: 
 2. Question 2
     1. In this question, we have setup the sweep on the above code.
