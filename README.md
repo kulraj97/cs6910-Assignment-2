@@ -1,4 +1,4 @@
-The wandb report link is: 
+The wandb report link is: https://wandb.ai/adi00510/Assignment%202/reports/Assignment-2--Vmlldzo2MDQwNzQ
 
 **Part A**
 1. Question 1
